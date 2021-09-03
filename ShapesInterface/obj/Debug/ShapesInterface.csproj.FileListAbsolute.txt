@@ -1,0 +1,6 @@
+D:\OOP_Paint_Project\OOP_Paint_Project\3laba\WindowsFormsApp1\ShapesInterface\bin\Debug\ShapesInterface.dll
+D:\OOP_Paint_Project\OOP_Paint_Project\3laba\WindowsFormsApp1\ShapesInterface\bin\Debug\ShapesInterface.pdb
+D:\OOP_Paint_Project\OOP_Paint_Project\3laba\WindowsFormsApp1\ShapesInterface\obj\Debug\ShapesInterface.csprojAssemblyReference.cache
+D:\OOP_Paint_Project\OOP_Paint_Project\3laba\WindowsFormsApp1\ShapesInterface\obj\Debug\ShapesInterface.csproj.CoreCompileInputs.cache
+D:\OOP_Paint_Project\OOP_Paint_Project\3laba\WindowsFormsApp1\ShapesInterface\obj\Debug\ShapesInterface.dll
+D:\OOP_Paint_Project\OOP_Paint_Project\3laba\WindowsFormsApp1\ShapesInterface\obj\Debug\ShapesInterface.pdb

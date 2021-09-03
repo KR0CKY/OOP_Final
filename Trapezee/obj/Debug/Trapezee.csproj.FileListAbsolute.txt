@@ -1,0 +1,9 @@
+D:\OOP_Paint_Project\OOP_Paint_Project\3laba\WindowsFormsApp1\Trapezee\bin\Debug\Trapezee.dll
+D:\OOP_Paint_Project\OOP_Paint_Project\3laba\WindowsFormsApp1\Trapezee\bin\Debug\Trapezee.pdb
+D:\OOP_Paint_Project\OOP_Paint_Project\3laba\WindowsFormsApp1\Trapezee\bin\Debug\ShapesInterface.dll
+D:\OOP_Paint_Project\OOP_Paint_Project\3laba\WindowsFormsApp1\Trapezee\bin\Debug\ShapesInterface.pdb
+D:\OOP_Paint_Project\OOP_Paint_Project\3laba\WindowsFormsApp1\Trapezee\obj\Debug\Trapezee.csprojAssemblyReference.cache
+D:\OOP_Paint_Project\OOP_Paint_Project\3laba\WindowsFormsApp1\Trapezee\obj\Debug\Trapezee.csproj.CoreCompileInputs.cache
+D:\OOP_Paint_Project\OOP_Paint_Project\3laba\WindowsFormsApp1\Trapezee\obj\Debug\Trapezee.csproj.CopyComplete
+D:\OOP_Paint_Project\OOP_Paint_Project\3laba\WindowsFormsApp1\Trapezee\obj\Debug\Trapezee.dll
+D:\OOP_Paint_Project\OOP_Paint_Project\3laba\WindowsFormsApp1\Trapezee\obj\Debug\Trapezee.pdb
